@@ -1,0 +1,152 @@
+# depslib dependency file v1.0
+1661212643 source:/home/mickael/Desktop/DeusEMais/Mickael-Lucas-Vitor/src/PocketSocket.cpp
+	"PocketSocket.h"
+	"Controller.h"
+	<iostream>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<stdlib.h>
+	<unistd.h>
+	<fstream>
+	<GetFile.h>
+
+1661196144 /home/mickael/Desktop/DeusEMais/Mickael-Lucas-Vitor/include/PocketSocket.h
+	<iostream>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<stdlib.h>
+	<unistd.h>
+
+1661212732 source:/home/mickael/Desktop/DeusEMais/Mickael-Lucas-Vitor/main.cpp
+	<iostream>
+	"Controller.h"
+
+1661212472 source:/home/mickael/Desktop/DeusEMais/Mickael-Lucas-Vitor/src/Controller.cpp
+	"Controller.h"
+	<iostream>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<stdlib.h>
+	<unistd.h>
+	<thread>
+	<vector>
+	"PocketSocket.h"
+
+1661196228 /home/mickael/Desktop/DeusEMais/Mickael-Lucas-Vitor/include/Controller.h
+	"PocketSocket.h"
+
+1660920325 source:/home/mickael/Desktop/Mickael-Lucas-Vitor/main.cpp
+	<iostream>
+	"Controller.h"
+
+1660920933 /home/mickael/Desktop/Mickael-Lucas-Vitor/include/Controller.h
+
+1660924689 source:/home/mickael/Desktop/Mickael-Lucas-Vitor/src/Controller.cpp
+	"Controller.h"
+	<iostream>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<stdlib.h>
+	<unistd.h>
+	"PocketSocket.h"
+
+1660924787 /home/mickael/Desktop/Mickael-Lucas-Vitor/include/PocketSocket.h
+	"Controller.h"
+	<iostream>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<stdlib.h>
+	<unistd.h>
+
+1660924970 source:/home/mickael/Desktop/Mickael-Lucas-Vitor/src/PocketSocket.cpp
+	"PocketSocket.h"
+	"Controller.h"
+	<iostream>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<stdlib.h>
+	<unistd.h>
+
+1661212813 source:/home/mickael/Desktop/DeusEMais/Mickael-Lucas-Vitor/src/GetFile.cpp
+	"GetFile.h"
+	<vector>
+	<iostream>
+	<fstream>
+	<string>
+
+1661213006 /home/mickael/Desktop/DeusEMais/Mickael-Lucas-Vitor/include/GetFile.h
+	<string>
+
+1663330604 source:/home/mickael/Desktop/trabalho/src/Controller.cpp
+	"Controller.h"
+	<iostream>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<stdlib.h>
+	<unistd.h>
+	<thread>
+	<vector>
+	"PocketSocket.h"
+
+1663262985 /home/mickael/Desktop/trabalho/include/Controller.h
+	"PocketSocket.h"
+
+1663330663 /home/mickael/Desktop/trabalho/include/PocketSocket.h
+	<iostream>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<stdlib.h>
+	<unistd.h>
+
+1663262985 source:/home/mickael/Desktop/trabalho/src/GetFile.cpp
+	"GetFile.h"
+	<vector>
+	<iostream>
+	<fstream>
+	<string>
+
+1663262985 /home/mickael/Desktop/trabalho/include/GetFile.h
+	<string>
+
+1663330870 source:/home/mickael/Desktop/trabalho/src/PocketSocket.cpp
+	"PocketSocket.h"
+	"Controller.h"
+	<iostream>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<stdlib.h>
+	<unistd.h>
+	<fstream>
+	<GetFile.h>
+
+1663263216 source:/home/mickael/Desktop/trabalho/main.cpp
+	<iostream>
+	"Controller.h"
+
