@@ -1,3 +1,3 @@
 # Socket Multithread
 Trabalho de Redes <br/>
-Mickael Osvaldo de OLiveira.
+Mickael Osvaldo de Oliveira.
