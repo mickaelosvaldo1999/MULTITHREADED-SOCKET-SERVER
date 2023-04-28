@@ -10,7 +10,7 @@ The server maintains a pool of worker threads that handle the actual data transf
 * Direct POSIX socket use.
 * Native Linux Threads support
 * Modern c++ techniques
-* Http remaker (personized HTTP response
+* Http remaker (personized HTTP response)
 
 ## License
 This code is distributed under the GPL-3.0 license. See the LICENSE file for more information.
